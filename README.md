@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laerre9&label=Profile%20views&color=b40e2f&style=flat" alt="laerre9" /> </p>
 
-- 🔭 I’m currently working on **Big Data Engineering**
+- 🔭 I’m currently working on **MSc Internship Project** in *Big Data Engineering*
 
 - 👨‍💻 All of my projects are available at [https://github.com/LaErre9](https://github.com/LaErre9)
 
