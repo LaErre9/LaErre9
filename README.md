@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Antonio Romano</h1>
-<h3 align="center">A Computer Engineering (Artificial Intelligence specialization) MSc. Students in University of Naples Federico II</h3>
+<h3 align="center">A Computer Engineering (Artificial Intelligence specialization) MSc Graduated in University of Naples Federico II</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laerre9&label=Profile%20views&color=b40e2f&style=flat" alt="laerre9" /> </p>
 
-- 🔭 I’m currently working on **MSc Internship Project** in *Big Data Engineering*
+- 🔭 I'm graduated in Computer Engineering (Data Engineering and Artificial Intelligence) with a thesis on **Healthcare AI Systems** in March 2024.
 
 - 👨‍💻 All of my projects are available at [https://github.com/LaErre9](https://github.com/LaErre9)
 
